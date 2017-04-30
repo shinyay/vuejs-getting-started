@@ -49,7 +49,6 @@
 npm install
 ```
 
-これで必要なパッケージがインストールされるはず。
 
 #### package.json
 
